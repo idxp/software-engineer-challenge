@@ -1,10 +1,10 @@
 # IDXP's software engineer challenge
 
-This is the description of the challenge we need you to do before joining us. We'll use everything you'll do in here to evaluate you, so please, do your best!
+This is the description of the challenge we need you to do before joining us. We'll use everything you'll do here to evaluate you, so please, do your best!
 
 ## Application description
 
-You need to create an application to index words in text files. Basically, a simple text file will be sent to you, and you will count how many times every word appears in it. Then, you will write an interface where we will search for a word, and you will list the documents that contain that word, and how many times the word appear on each document. Also, remember to order the results by relevance.
+You need to create an application to index words in text files. Basically, we'll send some simple text files to you, and you will count how many times every word appears in it. Then, you will write an interface where we will search for a word, and you will list the documents that contain that word, and how many times the word appear on each document. Also, remember to order the results by word occurrence.
 
 ## Application requirements
 
@@ -14,7 +14,7 @@ You need to create an application to index words in text files. Basically, a sim
 - You are free to tackle this problem in any way you want. If you think one application is not enough, create some more!
 - Please provide a document explaining your whole architecture, what you did, and why you did it.
   - This document must contain a scaling plan. Basically, you should tell us what you would do to scale your application, in detail. You don't have to implement any of it, though.
-- Please provide a document for each application explaining how to install, test, and run it. (Vagrant boxes or similar gets extra points!)
+- Please provide a document for your application explaining how to install, test, and run it. (Vagrant boxes or similar gets extra points!)
 - Just do what you think is right. We understand that no one knows everything, and of course, you will have the opportunity to improve once you're here.
 - We think that a week is a good deadline for this challenge, but please reach out to us if you need any extra time.
 
