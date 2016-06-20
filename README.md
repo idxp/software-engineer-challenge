@@ -26,6 +26,10 @@ You need to create an application to index words in text files. Basically, we'll
 4. Send an email telling us it's done
 5. There is no step 5.
 
+## Test files
+
+While you can use any text file to test your application, we will use the files in the `test-files/` folder to evaluate your application. Please make sure you test using them as well.
+
 ## Thank you!
 
 Thank you for your interesting in IDXP Analytics. We look forward to working with you!
