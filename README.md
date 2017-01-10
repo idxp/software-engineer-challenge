@@ -2,7 +2,7 @@
 
 This is the description of the challenge we need you to do before joining us. We'll use everything you'll do here to evaluate you, so please, do your best!
 
-## Application descriptiond
+## Application description
 
 You need to create an application to index words in text files. Basically, we'll send some simple text files to you, and you will count how many times every word appears in it. Then, you will write an interface where we will search for a word, and you will list the documents that contain that word, and how many times the word appear on each document. Also, remember to order the results by word occurrence.
 
